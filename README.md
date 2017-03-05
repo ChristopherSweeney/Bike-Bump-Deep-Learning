@@ -7,3 +7,6 @@
 			pip install librosa
 
 		->python 2
+		->firebase python lib
+		on mac:
+			sudo pip install python-firebase
