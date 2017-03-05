@@ -10,3 +10,6 @@
 		->firebase python lib
 		on mac:
 			sudo pip install python-firebase
+		->request library
+		on mac:
+			sudo pip install requests==1.1.0
