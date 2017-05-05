@@ -1,7 +1,9 @@
 # Bike-Bump-Deep-Learning
-	- Machine learning efforts to classify urban envirnments using sound data
+	- Machine learning efforts to classify urban environments using sound data
 
 	- [google's huge sound dataset](https://github.com/audioset/ontology)
+
+	- [bikebump past soundclips, DB link](https://www.dropbox.com/sh/as6ifn94aucqsep/AAD2n1xnFc2TL4TB62rNtQBha?dl=0)
 
 	->Dependencies
 		->http://librosa.github.io/
